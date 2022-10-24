@@ -1,0 +1,60 @@
+.logo {
+    background: white;
+    color: rgb(249, 89, 9);
+    text-align: center;
+    font-size: 437.5%;
+    border-radius: 100%;
+    width: 7%;
+    height: 15%;
+    position: absolute;
+    top: 10%;
+    margin-left: 45%;
+    font-family: Poppins;
+    font-weight: bold;
+}
+
+.heading {
+    color: white;
+    text-align: center;
+    font-size: 36px;
+    position: relative;
+    top: -240px;
+}
+
+/* .locationSelector */
+.locationDropdown {
+    position: relative;
+    text-align: center;
+    top: -238px;
+    margin-left: 27.5%;
+    margin-right: 20%;
+}
+
+.Dropdown {
+    height: 40px;
+    width: 245px;
+    color: gray;
+    border: none;
+    border-radius: 0px;
+    font-size: 100.5%;
+    opacity: 1;
+    margin-right: 21px;
+    margin-bottom: 25px;
+    float: left;
+}
+.SearchBar{
+    height: 40px;
+  width: 310px;
+  color: gray;
+  border: none;
+  border-radius: 0px;
+  font-size: 15px;
+  opacity: 0.7;
+  float: left;
+  padding-left: 30px;
+}
+.search {
+    position: absolute;
+    left: 275px;
+    margin: 2% 0px;
+  }
